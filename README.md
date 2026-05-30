@@ -16,8 +16,7 @@ sustainable growth or just temporary activity?
 
 ## Dashboard Preview
 
-  ![Dashboard Screenshot](dashboard_screenshot.png)
-
+  ![Dashboard Screenshot](Dashboard_Screenshot.png)
 ## Dashboard Features
 - Interactive slicers for City, Product Category, Customer Name, and Gender
 - KPI cards for Revenue, Expenses, Profit, Profit Margin, and Total Products
