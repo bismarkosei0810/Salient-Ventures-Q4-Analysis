@@ -14,6 +14,10 @@ sustainable growth or just temporary activity?
 ## Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers, Dashboard)
 
+## Dashboard Preview
+
+  ![Dashboard Screenshot](dashboard_screenshot.png)
+
 ## Dashboard Features
 - Interactive slicers for City, Product Category, Customer Name, and Gender
 - KPI cards for Revenue, Expenses, Profit, Profit Margin, and Total Products
